@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - MaxSumSubArr",
+            "request": "launch",
+            "mainClass": "JavaPrograms.JavaArray.MaxSumSubArr",
+            "projectName": "JavaPrograms_86ef0717"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Array1",
             "request": "launch",
             "mainClass": "JavaPrograms.Array1",
